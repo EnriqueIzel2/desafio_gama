@@ -194,3 +194,24 @@ footer {
   padding: 12px;
   margin-bottom: 24px;
 }
+
+.fontes {
+  display: flex;
+  flex-direction: column;
+}
+
+.fontes h2 {
+  font-size: 35px;
+  margin-bottom: 20px;
+}
+
+.fontes div {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+
+.fontes a {
+  font-size: 30px;
+  margin: 10px;
+}
