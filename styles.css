@@ -116,6 +116,24 @@ footer {
   text-decoration: none;
 }
 
+.redesSobre {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+}
+
+.redesSobre a {
+  color: #000000;
+  margin: 5px;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+.redesSobre a:hover {
+  color: #2b4880;
+  text-decoration: underline;
+}
+
 .redesSociais a:hover {
   color: #2b4880;
   text-decoration: underline;
